@@ -4,8 +4,8 @@
 
  - 🎓 I'm currently studing System Analysis and Development
  - 🏠 I'm currently live in Brasília - DF
- - 👨‍💻 My favorite programming language is Javascript(HTML, CSS, Bootstrap, Ajax, JQuerry)
- - 😒 I don't like it much more I know backend (Node, Php, MySQL)
+ - 👨‍💻 My favorite programming language is Javascript(HTML, CSS, Bootstrap, React)
+ - 😒 I don't like it much more I know backend (Node.js)
  - 📚 I'm currently learning Python, Java, Flutter, Dart
 
  - 🖼 https://vhcamposq.github.io/vhcamposq/
