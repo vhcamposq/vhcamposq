@@ -2,20 +2,16 @@
 <h1><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Bem-Vindo, pode me chamar de Vini. </h1>
 </div>
 
- - 🎓 I'm currently studing System Analysis and Development
- - 🏠 I'm currently live in Brasília - DF
- - 👨‍💻 My favorite programming language is Javascript(HTML, CSS, Bootstrap, React)
- - 😒 I don't like it much more I know backend (Node.js)
- - 📚 I'm currently learning Python, Java, Flutter, Dart
+ - 🎓 Formado em Análise e Desenvolvimento de Sistemas.
+ - 🏠 Brasília - DF
+ - 👨‍💻 Desenvolvedor Web 
+ - 📚 Conhecimento nas linguagens Python, Java, Javascrip, Dart, Kotlin e Alguns framewors
  - 🧩 https://vhcamposq.github.io/vhcamposq/
 
 
  <div align ='center' style="display: inline_block"><br>
  
-  <img align="center" alt="Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="React" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+
 
 </div>
   <br>
