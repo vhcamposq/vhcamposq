@@ -5,8 +5,8 @@
  - 🎓 Formado em Análise e Desenvolvimento de Sistemas.
  - 🏠 Brasília - DF
  - 👨‍💻 Desenvolvedor Web 
- - 📚 Conhecimento nas linguagens Python, Java, Javascrip, Dart, Kotlin e Alguns framewors
- - 🧩 https://vhcamposq.github.io/vhcamposq/
+ - 📚 Conhecimento nas linguagens Python, Java, Javascrip, Dart, Kotlin e Alguns frameworks.
+ - 🧩 Conhecimento é a base de tudo.
 
 
  <div align ='center' style="display: inline_block"><br>
