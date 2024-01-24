@@ -1,12 +1,12 @@
 <div align="center">
   <h1><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Olá, eu sou Vinícius Rodrigues.</h1>
-  <p>Desenvolvedor Web Full Stack | Brasília - DF</p>
+  <p>Desenvolvedor Full Stack | Valparaíso de Goiás - GO</p>
 </div>
 
 ### Sobre Mim
 - 🎓 Formado em Análise e Desenvolvimento de Sistemas.
-- 👨‍💻 Atualmente trabalhando como desenvolvedor web full stack.
-- 🌐 Experiência em projetos de desenvolvimento web e mobile.
+- 👨‍💻 Atualmente trabalhando com Analista de aplicação e Infraestrutura.
+- 🌐 Buscando ingressar em uma vaga de Desenvolvedor Java Jr.
 - 🚀 Sempre buscando aprender e aplicar novas tecnologias.
 
 ### Tecnologias e Ferramentas
