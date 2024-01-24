@@ -17,15 +17,15 @@
   <br>
   <br>
 
-<a href="https://github.com/vhcamposq">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=vhcamposq&show_icons=true&theme=gotham&line_height=30" alt="Ankit's github stats"/>
+
 
 <a href="https://github.com/vhcamposq">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vhcamposq&theme=gotham$line_height=30" alt="Ankit's github stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vhcamposq&theme=gotha,">
 </a>
-
-
-
+  <a href="https://github.com/vhcamposq">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=vhcamposq&show_icons=true&theme=gotham&line_height=30" alt="Ankit's github stats"/>
+</a>
+</div>
 
 <br>
 <br>
