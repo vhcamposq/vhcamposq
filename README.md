@@ -14,5 +14,5 @@ Se você está começando na programação, lembre-se: o aprendizado é uma jorn
 
 ### Tecnologias nos Meus Repositórios
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&hide=html" alt="Top Langs">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vhcamposq&layout=compact&hide=html" alt="Top Langs">
 </div>
