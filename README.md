@@ -44,4 +44,3 @@
   <a href = "https://github.com/vhcamposq"><img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/lucianosz7"></a>
   
 </div>
-alt="Ankit's github stats"
