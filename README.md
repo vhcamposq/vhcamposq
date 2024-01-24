@@ -19,10 +19,10 @@
 
 /*<a href="https://github.com/vhcamposq">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vhcamposq&show_icons=true&theme=gotham&line_height=30" />
-</a>
+</a>*/
 <a href="https://github.com/vhcamposq">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vhcamposq&theme=gotham$line_height=30"">
-</a>*/
+</a>
 
 
 
