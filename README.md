@@ -6,7 +6,7 @@
 ### Sobre Mim
 - 🎓 Formado em Análise e Desenvolvimento de Sistemas.
 - 👨‍💻 Atualmente trabalhando com Analista de aplicação e Infraestrutura.
-- 🌐 Buscando ingressar em uma vaga de Desenvolvedor Java Jr.
+- 🌐 Buscando ingressar em uma vaga de Desenvolvedor Jr.
 - 🚀 Sempre buscando aprender e aplicar novas tecnologias.
 
 ### Tecnologias e Ferramentas
