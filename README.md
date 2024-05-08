@@ -10,9 +10,9 @@
 - 🚀 Sempre buscando aprender e aplicar novas tecnologias.
 
 ### Tecnologias e Ferramentas
-- **Linguagens de Programação:** JavaScript, Python, Java, Dart, Kotlin.
-- **Bibliotecas e Frameworks:** React, Node.js, Spring Boot, Flutter.
-- **Bancos de Dados:** MySQL, MongoDB.
+- **Linguagens de Programação:** Python, JavaScript, Java, Dart, Kotlin.
+- **Bibliotecas e Frameworks:** Keras, Tensorflow, React, Node.js, Spring Boot, Flutter.
+- **Bancos de Dados:** SQL, MySQL, MongoDB.
 - **Metodologias:** Desenvolvimento Ágil (Scrum).
 - **Ferramentas de Controle de Versão:** Git, GitHub.
 
