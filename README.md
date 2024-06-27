@@ -22,7 +22,7 @@ Se você está começando na área de desenvolvimento, lembre-se de que o aprend
 
 ### Estatísticas dos Meus Repositórios
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vhcamposq&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical" alt="GitHub Stats">
+  //<img src="https://github-readme-stats.vercel.app/api?username=vhcamposq&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical" alt="GitHub Stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vhcamposq&layout=compact&hide=html&theme=radical" alt="Top Langs">
 </div>
 
