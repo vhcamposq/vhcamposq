@@ -11,7 +11,7 @@
 - 🚀 Sempre buscando aprender e aplicar novas tecnologias.
 
 ### Tecnologias e Ferramentas
-- **Linguagens de Programação:** Python, JavaScript, Java, Dart, Kotlin.
+- **Linguagens de Programação:** Java, Python, JavaScript, Dart, Kotlin.
 - **Bibliotecas e Frameworks:** Keras, Tensorflow, React, Node.js, Spring Boot, Flutter.
 - **Bancos de Dados:** SQL, MySQL, MongoDB.
 - **Metodologias:** Desenvolvimento Ágil (Scrum).
