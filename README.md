@@ -20,4 +20,8 @@
 ### Dica para Desenvolvedores Iniciantes
 Se você está começando na área de desenvolvimento, lembre-se de que o aprendizado é uma jornada contínua. Não tenha medo de buscar desafios, aprender com os erros e sempre melhorar suas habilidades.
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vhcamposq&layout=compact&hide=html&theme=radical" alt="Top Langs">
+</div>
+
 
