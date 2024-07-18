@@ -6,12 +6,12 @@
 ### Sobre Mim
 - 🎓 Formado em Análise e Desenvolvimento de Sistemas.
 - 🎓 Pós Graduado em Análise de Dados e Pós Graduando em Engenharia de Software.
-- 👨‍💻 Atualmente trabalhando com Analista de aplicação e Infraestrutura.
+- 👨‍💻 Atualmente trabalhando com Analista de Aplicação e Infraestrutura.
 - 🌐 Buscando ingressar em uma vaga de Desenvolvedor Jr.
 - 🚀 Sempre buscando aprender e aplicar novas tecnologias.
 
 ### Tecnologias e Ferramentas
-- **Linguagens de Programação:** Java, Python, JavaScript,TypeScript.
+- **Linguagens de Programação:** Java, Python, Shell Linux, JavaScript,TypeScript.
 - **Bibliotecas e Frameworks:** Keras, Tensorflow, Angular, Node.js, Spring Boot.
 - **Bancos de Dados:** SQL, PostgreSQL, MongoDB.
 - **Metodologias:** Desenvolvimento Ágil (Scrum).
@@ -30,13 +30,11 @@ Se você está começando na área de desenvolvimento, lembre-se de que o aprend
 <div style="display: inline-block;" align="center"><br>
   <img align="center" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-plain.svg">
   <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
   <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-
-
-
+  <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">         
   <br /><br />
   <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
   <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg">
