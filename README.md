@@ -45,8 +45,7 @@ Se você está começando na área de desenvolvimento, lembre-se de que o aprend
   <img align="center" height="50" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
   
           
-  
-          
+    
 
 </div>
 
