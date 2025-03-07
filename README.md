@@ -5,9 +5,9 @@
 
 ### Sobre Mim
 - 🎓 Formado em Análise e Desenvolvimento de Sistemas.
-- 🎓 Pós Graduado em Análise de Dados e Pós Graduando em Engenharia de Software.
+- 🎓 Pós Graduado em Análise de Dados e Pós Graduado em Engenharia de Software.
 - 👨‍💻 Atualmente trabalhando com Analista de Aplicação e Infraestrutura.
-- 🌐 Buscando ingressar em uma vaga de Desenvolvedor Jr.
+- 🌐 Buscando ingressar em uma vaga de Desenvolvedor Web.
 - 🚀 Sempre buscando aprender e aplicar novas tecnologias.
 
 ### Tecnologias e Ferramentas
