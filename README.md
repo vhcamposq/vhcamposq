@@ -1,19 +1,19 @@
 <div align="center">
   <h1><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Olá, eu sou Vinícius Campos.</h1>
-  <p>Futuro Dev | Valparaíso de Goiás - GO</p>
+  <p>Dev de Infra | Valparaíso de Goiás - GO</p>
 </div>
 
 ### Sobre Mim
 - 🎓 Formado em Análise e Desenvolvimento de Sistemas.
 - 🎓 Pós Graduado em Análise de Dados e Pós Graduado em Engenharia de Software.
 - 👨‍💻 Atualmente trabalhando com Analista de Aplicação e Infraestrutura.
-- 🌐 Buscando ingressar em uma vaga de Desenvolvedor Web.
+- 🌐 Amante de Desenvolvedor Web.
 - 🚀 Sempre buscando aprender e aplicar novas tecnologias.
 
 ### Tecnologias e Ferramentas
-- **Linguagens de Programação:** Java, Python, Shell Linux, JavaScript,TypeScript.
-- **Bibliotecas e Frameworks:** Keras, Tensorflow, Angular, Node.js, Spring Boot.
-- **Bancos de Dados:** SQL, PostgreSQL, MongoDB.
+- **Linguagens de Programação:** Java, Python, Shell Linux, JavaScript,TypeScript, Ruby, Kotlin.
+- **Bibliotecas e Frameworks:** Django, Flask, Keras, Tensorflow, Angular, Node.js, Spring Boot, Rails.
+- **Bancos de Dados:** MySQL, PostgreSQL, MongoDB.
 - **Metodologias:** Desenvolvimento Ágil (Scrum).
 - **Ferramentas de Controle de Versão:** Git, GitHub.
 
