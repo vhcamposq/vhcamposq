@@ -22,8 +22,8 @@ Se você está começando na área de desenvolvimento, lembre-se de que o aprend
 
 <div align="center">
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=radical)
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=radical)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vhcamposq&layout=compact&theme=radical)
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=vhcamposq&show_icons=true&theme=radical)
 </div>
 
 
